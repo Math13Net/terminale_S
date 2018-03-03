@@ -1,8 +1,7 @@
 # TS - Programme python pour la TS
 Bonjour et bienvenu,
 
-Vous trouverez ici l'ensemble des programmes python pour la terminale S
-Il y a 2 parties.
+Vous trouverez ici l'ensemble des programmes python pour la terminale S. Il y a 2 parties.
 
 Première partie : classé par chapitre de cours (ceux sont les petits programmes du cours)
 
