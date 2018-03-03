@@ -19,7 +19,7 @@ def Solution_Second_Degre(a,b,c):
     x2 = (-b + sqrt(delta)) / (2*a)
     print ("X1=",x1)
     print ("X2=",x2)
-
+ 
 def Rappel_Boucle_Tant_Que(p):
 # p étant un entier positif
 # permet de trouver le premier n tel que 
@@ -32,4 +32,9 @@ def Rappel_Boucle_Tant_Que(p):
     U = U+n
   print ("N=",n)
   
-  
+def calcul_de_Factorielle(n):
+# calcule factorielle n grâce à une boucle for
+  k = 1
+  for i in range (1, n+1) :
+    k = k*i
+  print (n,"! = ",k)  
