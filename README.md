@@ -7,6 +7,7 @@ Vous trouverez ici l'ensemble des programmes python pour la terminale S
 Il y a 2 parties.
 
 Première partie : classé par chapitre de cours (ceux sont les petits programmes du cours)
+
 Deuxième partie : programme autonome par activité ou thème traité
 
 Pour un lecture claire de chacun de ces programmes, je vous conseille d'aller sur le site math13.net et de travailler en parallèle (sujet+programme)
