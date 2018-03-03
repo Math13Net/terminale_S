@@ -19,3 +19,17 @@ def Solution_Second_Degre(a,b,c):
     x2 = (-b + sqrt(delta)) / (2*a)
     print ("X1=",x1)
     print ("X2=",x2)
+
+def Rappel_Boucle_Tant_Que(p):
+# p étant un entier positif
+# permet de trouver le premier n tel que 
+# 1 + 2 + ... + n > 10**p
+# au moyen de la suite U
+
+  n,U = 0,0
+  while U <= 10**p:
+    n = n+1
+    U = U+n
+  print ("N=",n)
+  
+  
