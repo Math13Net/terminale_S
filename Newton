@@ -1,1 +1,80 @@
-test
+# TS_Newton
+# Méthode de Newton classique
+# Prolongement trouvé
+# https://lgarcin.github.io/2017-05-17-newton-et-babylone/
+(en cours de construction)
+
+--------------------------------------------------------------
+Méthode Newton Classique
+--------------------------------------------------------------
+from matplotlib.pyplot import plot, figure, axhline
+from sympy import var, exp, diff
+from numpy import linspace
+
+# On utilise le module de calcul formel sympy
+# pour définir la fonction et calculer sa dérivée
+x=var('x')
+f=exp(7*(2-x)/10)-1
+df=diff(f,x)
+
+fig=figure(figsize=(8,6))
+
+# Premier terme de la suite
+u=0.1
+# Deux listes pour le tracé
+X,Y=[],[]
+# Calcul des premiers termes de la suite
+for _ in range(10):
+  X.extend([u,u])
+  fu=f.subs(x,u)
+  Y.extend([0,fu])
+  dfu=df.subs(x,u)
+  u-=fu/dfu
+
+axhline(0,color='red')
+# Représentation graphique de la suite
+plot(X,Y,color='blue')
+# Tracé de la fonction
+xmin,xmax=float(min(X)),float(max(X))
+xmin,xmax=xmin-.1*(xmax-xmin),xmax+.1*(xmax-xmin)
+X=linspace(xmin,xmax,100)
+Y=[f.subs(x,u) for u in X]
+plot(X,Y,color='green')
+
+# La figure devrait apparaître dans un autre onglet
+fig.savefig('newton.png')
+
+---------------------------------------------------------
+Méthode de Newton pour les Complexes
+---------------------------------------------------------
+# On cherche à calculer la racine carrée de a
+a = 1 + 1j
+
+# On initialise le premier terme de la suite
+u = 1
+
+# On applique 100 fois la relation de récurrence
+for _ in range(100):
+    u = (u + a / u) * .5
+print(u, u ** 2, a)
+
+
+-------------------------------------------------------------
+Méthode de Newton pour les Matrices
+-------------------------------------------------------------
+from numpy.random import uniform
+from numpy import eye
+from numpy.linalg import inv, norm
+
+# Création d'une matrice aléatoire possédant une racine carrée
+A = uniform(-1, 1, (5, 5))
+A = A.T.dot(A)
+# Initisalisation du premier terme
+U = eye(5)
+# Calcul des 100 premiers termes
+for _ in range(100):
+    U = (U + inv(U).dot(A)) * .5
+print(U)
+print(U.dot(U))
+print(A)
+print(norm(U.dot(U) - A))
