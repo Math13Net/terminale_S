@@ -16,15 +16,17 @@ graph["jonny"] = []
 def person_is_seller(name):
   return name[-1] == "m"
 
-def chercher():
+def chercher(name):
   search_queue = deque()
-  search_queue += graph["you"]
-
+  search_queue += graph[name]
+  deja_vu = []
   while search_queue:
     person = search_queue.popleft()
-    if person_is_seller(person):
-      print(person + " is a mengo seller")
-      return True
-    else:
-      search_queue += graph[person]
+    if not person in deja_vu:
+      if person_is_seller(person):
+        print(person + " is a mengo seller")
+        return True
+      else:
+        search_queue += graph[person]
+        deja_vu.append(person)
   return False
