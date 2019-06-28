@@ -7,5 +7,8 @@ Vous trouverez ici qq programmes pythons pour la TS, de 2 types :
      - Newton : implémentationde la méthode de Newton
      - gestion d'une file comme une pile en FIFO avec deque (par opposition à LIFO avec stack)
      - implementation de l'algorithme Dijkstra sur un petit graphe
+          ( si poids négatif : Bellman-Ford algorithm https://www.youtube.com/watch?v=dyf11wCDZv0
+               ne fonctionne pas sur une boucle negative)
+     - ...
 
 
