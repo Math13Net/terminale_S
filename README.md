@@ -9,6 +9,6 @@ Vous trouverez ici qq programmes pythons pour la TS, de 2 types :
      - implementation de l'algorithme Dijkstra sur un petit graphe
           ( si poids négatif : Bellman-Ford algorithm https://www.youtube.com/watch?v=dyf11wCDZv0
                ne fonctionne pas sur une boucle negative)
-     - dijkstra2, plus complet (trouvé sur internet)
+     - dijkstra2, plus complet (trouvé sur internet - à revoir)
 
 
