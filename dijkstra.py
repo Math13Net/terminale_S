@@ -1,3 +1,9 @@
+""" Dijkstra Algorithm from Algorithms in Motion - Beau Carnes
+choose the faster way from start to end - only positive figures 
+complexity (wiki) : 𝛰((n+a) log n) with n nb of nodes , a nb of edge
+Careful : for positive/negative figures, choose Bellam-Ford algorithm
+"""
+
 graph = {}
 graph["start"]={}
 
