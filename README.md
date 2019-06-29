@@ -1,4 +1,7 @@
 # TS - Programme python pour la TS
+
+Magic Problem Solver Algorithm ;)) https://proftomcrick.com/2011/04/26/feynman-problem-solving-algorithm/
+
 Bonjour et bienvenu,
 
 Vous trouverez ici qq programmes pythons pour la TS, de 2 types :
