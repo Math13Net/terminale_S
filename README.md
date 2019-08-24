@@ -7,6 +7,13 @@ best way to learn is to find something you interested in and dive in !
 -----------------------------------------------------------------------------------------------------------------------------
 [progression Lycée Pré de Cordy 2019-2020](https://github.com/Math13Net/TS/blob/master/Progression%20TS%202019%20-%202020.pdf)
 
+# TS - Cours
+
+## [00 - rappel](https://www.dropbox.com/home/Math13Net/TS-2019-2020?preview=2018_TS_Cours_00.pdf)
+## [01 - suite](https://www.dropbox.com/home/Math13Net/TS-2019-2020?preview=2018_TS_Cours_00.pdf)
+
+
+
 
 ---------------------------------------------------------------------------------------------------------------------------
 aussi étonnant que cela puisse paraître (mais très révélateur), je n'ai pas trouver de document sur internet
