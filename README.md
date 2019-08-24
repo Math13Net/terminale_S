@@ -10,7 +10,7 @@ best way to learn is to find something you interested in and dive in !
 # TS - Cours
 
 ## [00 - rappel](https://www.dropbox.com/home/Math13Net/TS-2019-2020/00%20-%20rappel?preview=2018_TS_Cours_00.pdf)
-## [01 - suite](https://www.dropbox.com/home/Math13Net/TS-2019-2020?preview=2018_TS_Cours_00.pdf)
+## [01 - suite](https://www.dropbox.com/home/Math13Net/TS-2019-2020/01%20-%20suite?preview=2019_TS_Cours_01.pdf)
 
 
 
