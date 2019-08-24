@@ -4,6 +4,18 @@ best way to learn is to find something you interested in and dive in !
 Magic Problem Solver Algorithm ;)) https://proftomcrick.com/2011/04/26/feynman-problem-solving-algorithm/
 
 
+-----------------------------------------------------------------------------------------------------------------------------
+[progression Lycée Pré de Cordy 2019-2020](https://github.com/Math13Net/seconde/blob/master/progression_seconde)
+
+
+---------------------------------------------------------------------------------------------------------------------------
+[algorithmes à connaître en seconde](https://github.com/Math13Net/seconde/blob/master/algorithms)
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------
 Vous trouverez ici qq programmes pythons pour la TS, de 2 types :
 - ceux numerotés correspondent aux chapitres de cours vus en classe
 - les autres, permettant l'utilisation d'une technique particulière
