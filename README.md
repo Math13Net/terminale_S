@@ -1,11 +1,11 @@
 # TS - Programme python pour la TS
 best way to learn is to find something you interested in and dive in !
 -------------------------------------------------------------------------------------------------------
-Magic Problem Solver Algorithm ;)) https://proftomcrick.com/2011/04/26/feynman-problem-solving-algorithm/
+[Magic Problem Solver Algorithm ;))](https://proftomcrick.com/2011/04/26/feynman-problem-solving-algorithm/)
 
 
 -----------------------------------------------------------------------------------------------------------------------------
-[progression Lycée Pré de Cordy 2019-2020](https://github.com/Math13Net/seconde/blob/master/progression_seconde)
+[progression Lycée Pré de Cordy 2019-2020](https://github.com/Math13Net/TS/blob/master/Progression%20TS%202019%20-%202020.pdf)
 
 
 ---------------------------------------------------------------------------------------------------------------------------
