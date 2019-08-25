@@ -22,7 +22,7 @@ best way to learn is to find something you interested in and dive in !
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
-## <a name="cours"></a> Cours TS 2019 - 2020
+## <a name="cours"></a> cours TS 2019 - 2020
 * ### [00 - rappel](https://www.dropbox.com/home/Math13Net/TS-2019-2020/00%20-%20rappel?preview=2018_TS_Cours_00.pdf)
 * ### [01 - suite](https://www.dropbox.com/home/Math13Net/TS-2019-2020/01%20-%20suite?preview=2019_TS_Cours_01.pdf)
 * ###
@@ -30,7 +30,7 @@ best way to learn is to find something you interested in and dive in !
 * ###
 
 ---------------------------------------------------------------------------------------------------------------------------
-## <a name="resume"></a> TS Résumé
+## <a name="resume"></a> fiche et résumé pour TS
 * ### [00 - suite arithmétique et géométrique](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/01_rappels_suites_algorithme/resume_suites.pdf)
 * ### [01 - suite](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/02_raisonnement_recurrence_limite_suite/limites_suite_schema.pdf)
 * ### [01 - récurrence](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/02_raisonnement_recurrence_limite_suite/resume_recurrence.pdf)
@@ -44,7 +44,7 @@ n'hésiter à m'en envoyer un si vous trouvez
 voici la meilleure page que jai trouvée : [algorithmes TS](https://www.lyceedadultes.fr/sitepedagogique/pages/algorithmes_ti.html)
 
 ---------------------------------------------------------------------------------------------------------------------------
-## <a name="devoir"></a> Devoirs et bac Blanc TS 2019 - 2020
+## <a name="devoir"></a> devoirs, blanc, ...
 * ###
 
 
