@@ -30,9 +30,9 @@ best way to learn is to find something you interested in and dive in !
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="resume"></a> TS Résumé
-### [suite](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/01_rappels_suites_algorithme/resume_suites.pdf)
-
-
+### [00 - suite arithmétique et géométrique](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/01_rappels_suites_algorithme/resume_suites.pdf)
+### [01 - suite](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/02_raisonnement_recurrence_limite_suite/limites_suite_schema.pdf)
+### [01 - récurrence](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/02_raisonnement_recurrence_limite_suite/resume_recurrence.pdf)
 
 
 ### algorithmique
