@@ -22,56 +22,27 @@ best way to learn is to find something you interested in and dive in !
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 
-## <a name="sommaire"></a> Progression Première NSI
-------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------
-
-### Chapitre 1 : PROGRAMMATION - PROJET - DONNEES
-#### 1.1 initiation à [Python 3] (C)
- * console - opération - type
- * if/while/for
- * fonction - spécification - test
- * module
-
-
-
-
-
-
-
-
-
-
-# TS - Programme python pour la TS
-best way to learn is to find something you interested in and dive in !
--------------------------------------------------------------------------------------------------------
-[Magic Problem Solver Algorithm ;))](https://proftomcrick.com/2011/04/26/feynman-problem-solving-algorithm/)
-
-
------------------------------------------------------------------------------------------------------------------------------
-# TS - Progression 2019 - 2020
+## <a name="sommaire"></a> Progression TS 2019 - 2020
 [progression Lycée Pré de Cordy 2019-2020](https://github.com/Math13Net/TS/blob/master/Progression%20TS%202019%20-%202020.pdf)
 
 
------------------------------------------------------------------------------------------------------------------------------
-# TS - Cours
-
-## [00 - rappel](https://www.dropbox.com/home/Math13Net/TS-2019-2020/00%20-%20rappel?preview=2018_TS_Cours_00.pdf)
-## [01 - suite](https://www.dropbox.com/home/Math13Net/TS-2019-2020/01%20-%20suite?preview=2019_TS_Cours_01.pdf)
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+## <a name="cours"></a> Cours TS 2019 - 2020
+### [00 - rappel](https://www.dropbox.com/home/Math13Net/TS-2019-2020/00%20-%20rappel?preview=2018_TS_Cours_00.pdf)
+### [01 - suite](https://www.dropbox.com/home/Math13Net/TS-2019-2020/01%20-%20suite?preview=2019_TS_Cours_01.pdf)
 
 
 
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="resume"></a> TS Résumé
-------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------
-
 ### [suite](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/01_rappels_suites_algorithme/resume_suites.pdf)
 
 
 
 
+### algorithmique
 aussi étonnant que cela puisse paraître (mais très révélateur), je n'ai pas trouver de document sur internet
 proposant un résumé clair des algorithmes à connaître en TS
 n'hésiter à m'en envoyer un si vous trouvez
