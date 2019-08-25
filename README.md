@@ -42,8 +42,7 @@ n'hésiter à m'en envoyer un si vous trouvez
 
 voici la meilleure page que jai trouvée : [algorithmes TS](https://www.lyceedadultes.fr/sitepedagogique/pages/algorithmes_ti.html)
 
-------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------
 ## <a name="devoir"></a> Devoirs et bac Blanc TS 2019 - 2020
 * ###
 
