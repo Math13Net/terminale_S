@@ -19,6 +19,12 @@ best way to learn is to find something you interested in and dive in !
 
 
 ---------------------------------------------------------------------------------------------------------------------------
+# TS - Résumé
+
+## suite
+
+
+
 aussi étonnant que cela puisse paraître (mais très révélateur), je n'ai pas trouver de document sur internet
 proposant un résumé clair des algorithmes à connaître en TS
 n'hésiter à m'en envoyer un si vous trouvez
