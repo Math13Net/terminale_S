@@ -9,7 +9,7 @@ best way to learn is to find something you interested in and dive in !
 
 ## [Modalité bac TS](https://eduscol.education.fr/pid23233-cid58536/serie-s-a-partir-de-2013.html)
 
-## [Progression TS 2019-2020](#sommaire)
+## [Progression TS 2019-2020](https://github.com/Math13Net/TS/blob/master/Progression%20TS%202019%20-%202020.pdf)
 
 ## [Cours TS 2019-2020](#cours)
 
@@ -18,13 +18,6 @@ best way to learn is to find something you interested in and dive in !
 ## [Devoirs et Bac Blanc](#devoir)
 
 ## WARNING : document under LICENCE CC ![Licence CC](https://github.com/Math13Net/NSI-premiere/blob/master/licence%20CC.png)
-
-------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------
-
-## <a name="sommaire"></a> Progression TS 2019 - 2020
-[progression Lycée Pré de Cordy 2019-2020](https://github.com/Math13Net/TS/blob/master/Progression%20TS%202019%20-%202020.pdf)
-
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
