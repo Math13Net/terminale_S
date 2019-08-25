@@ -19,9 +19,12 @@ best way to learn is to find something you interested in and dive in !
 
 
 ---------------------------------------------------------------------------------------------------------------------------
-# TS - Résumé
+## <a name="resume"></a> TS Résumé
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
-## suite
+### [suite](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/01_rappels_suites_algorithme/resume_suites.pdf)
+
 
 
 
