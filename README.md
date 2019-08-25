@@ -30,12 +30,12 @@ best way to learn is to find something you interested in and dive in !
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="resume"></a> TS Résumé
-### * [00 - suite arithmétique et géométrique](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/01_rappels_suites_algorithme/resume_suites.pdf)
-### * [01 - suite](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/02_raisonnement_recurrence_limite_suite/limites_suite_schema.pdf)
-### * [01 - récurrence](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/02_raisonnement_recurrence_limite_suite/resume_recurrence.pdf)
-
-
-### algorithmique
+* ### [00 - suite arithmétique et géométrique](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/01_rappels_suites_algorithme/resume_suites.pdf)
+* ### [01 - suite](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/02_raisonnement_recurrence_limite_suite/limites_suite_schema.pdf)
+* ### [01 - récurrence](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/02_raisonnement_recurrence_limite_suite/resume_recurrence.pdf)
+* ###
+* ###
+* ### algorithmique
 aussi étonnant que cela puisse paraître (mais très révélateur), je n'ai pas trouver de document sur internet
 proposant un résumé clair des algorithmes à connaître en TS
 n'hésiter à m'en envoyer un si vous trouvez
