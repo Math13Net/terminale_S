@@ -5,15 +5,17 @@ best way to learn is to find something you interested in and dive in !
 
 <a href="https://youtu.be/hB6bfw622fo" target="_blank"><img src="https://github.com/Math13Net/TS/blob/master/math_ts.jpg" alt="Math TS" width="600" height="200" border="200" /></a>
 
-## [Programme officiel BO NSI Première](https://cache.media.education.gouv.fr/file/SP1-MEN-22-1-2019/26/8/spe633_annexe_1063268.pdf)
+## [Programme officiel TS](https://cache.media.education.gouv.fr/file/SP1-MEN-22-1-2019/26/8/spe633_annexe_1063268.pdf)
 
-## [Modalité bac spé NSI](#bac)
+## [Modalité bac TS](#bac)
 
-## [Progression NSI premiere 2019-2020](#sommaire)
+## [Progression TS 2019-2020](#sommaire)
 
-## [Projets pour le NSI premiere](#projet)
+## [Cours TS 2019-2020](#cours)
 
-## [Références](#reference)
+## [Résumés](#resume)
+
+## [Devoirs](#devoir)
 
 ## WARNING : document under LICENCE CC ![Licence CC](https://github.com/Math13Net/NSI-premiere/blob/master/licence%20CC.png)
 
