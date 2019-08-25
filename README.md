@@ -1,4 +1,4 @@
-# Terminale S - 2019/2020
+# Terminale S - Lycée Pré de Cordy - sarlat - 2019/2020
 
 best way to learn is to find something you interested in and dive in !
 -------------------------------------------------------------------------------------------------------
