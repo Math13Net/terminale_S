@@ -1,4 +1,5 @@
-# TS - Programme python pour la TS
+# Terminale S - 2019/2020
+
 best way to learn is to find something you interested in and dive in !
 -------------------------------------------------------------------------------------------------------
 [Magic Problem Solver Algorithm ;))](https://proftomcrick.com/2011/04/26/feynman-problem-solving-algorithm/)
