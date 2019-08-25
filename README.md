@@ -5,17 +5,17 @@ best way to learn is to find something you interested in and dive in !
 
 <a href="https://youtu.be/hB6bfw622fo" target="_blank"><img src="https://github.com/Math13Net/TS/blob/master/math_ts.jpg" alt="Math TS" width="600" height="200" border="200" /></a>
 
-## [Programme officiel TS](https://cache.media.education.gouv.fr/file/special_8_men/98/4/mathematiques_S_195984.pdf)
-
-## [Modalité bac TS](https://eduscol.education.fr/pid23233-cid58536/serie-s-a-partir-de-2013.html)
-
-## [Progression TS 2019-2020](https://github.com/Math13Net/TS/blob/master/Progression%20TS%202019%20-%202020.pdf)
-
 ## [Cours TS 2019-2020](#cours)
 
 ## [Résumés](#resume)
 
 ## [Devoirs et Bac Blanc](#devoir)
+
+## [Programme officiel TS](https://cache.media.education.gouv.fr/file/special_8_men/98/4/mathematiques_S_195984.pdf)
+
+## [Modalité bac TS](https://eduscol.education.fr/pid23233-cid58536/serie-s-a-partir-de-2013.html)
+
+## [Progression TS 2019-2020](https://github.com/Math13Net/TS/blob/master/Progression%20TS%202019%20-%202020.pdf)
 
 ## WARNING : document under LICENCE CC ![Licence CC](https://github.com/Math13Net/NSI-premiere/blob/master/licence%20CC.png)
 
