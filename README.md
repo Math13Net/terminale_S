@@ -5,9 +5,9 @@ best way to learn is to find something you interested in and dive in !
 
 <a href="https://youtu.be/hB6bfw622fo" target="_blank"><img src="https://github.com/Math13Net/TS/blob/master/math_ts.jpg" alt="Math TS" width="600" height="200" border="200" /></a>
 
-## [Programme officiel TS](https://cache.media.education.gouv.fr/file/SP1-MEN-22-1-2019/26/8/spe633_annexe_1063268.pdf)
+## [Programme officiel TS](https://cache.media.education.gouv.fr/file/special_8_men/98/4/mathematiques_S_195984.pdf)
 
-## [Modalité bac TS](#bac)
+## [Modalité bac TS](https://eduscol.education.fr/pid23233-cid58536/serie-s-a-partir-de-2013.html)
 
 ## [Progression TS 2019-2020](#sommaire)
 
@@ -15,7 +15,7 @@ best way to learn is to find something you interested in and dive in !
 
 ## [Résumés](#resume)
 
-## [Devoirs](#devoir)
+## [Devoirs et Bac Blanc](#devoir)
 
 ## WARNING : document under LICENCE CC ![Licence CC](https://github.com/Math13Net/NSI-premiere/blob/master/licence%20CC.png)
 
