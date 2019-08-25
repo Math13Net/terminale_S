@@ -3,7 +3,7 @@ best way to learn is to find something you interested in and dive in !
 -------------------------------------------------------------------------------------------------------
 [Magic Problem Solver Algorithm ;))](https://proftomcrick.com/2011/04/26/feynman-problem-solving-algorithm/)
 
-<a href="https://www.youtube.com/watch?v=gpJvvH8JFn4" target="_blank"><img src="https://github.com/Math13Net/TS/blob/master/math_ts.jpg" alt="Math TS" width="120" height="90" border="10" /></a>
+<a href="https://youtu.be/hB6bfw622fo" target="_blank"><img src="https://github.com/Math13Net/TS/blob/master/math_ts.jpg" alt="Math TS" width="120" height="90" border="10" /></a>
 
 ## [Programme officiel BO NSI Première](https://cache.media.education.gouv.fr/file/SP1-MEN-22-1-2019/26/8/spe633_annexe_1063268.pdf)
 
