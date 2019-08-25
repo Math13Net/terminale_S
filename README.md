@@ -3,6 +3,48 @@ best way to learn is to find something you interested in and dive in !
 -------------------------------------------------------------------------------------------------------
 [Magic Problem Solver Algorithm ;))](https://proftomcrick.com/2011/04/26/feynman-problem-solving-algorithm/)
 
+<a href="https://www.youtube.com/watch?v=gpJvvH8JFn4" target="_blank"><img src="https://github.com/Math13Net/NSI-premiere/blob/master/nsi.jpg" alt="NSI Première" width="120" height="90" border="10" /></a>
+
+## [Programme officiel BO NSI Première](https://cache.media.education.gouv.fr/file/SP1-MEN-22-1-2019/26/8/spe633_annexe_1063268.pdf)
+
+## [Modalité bac spé NSI](#bac)
+
+## [Progression NSI premiere 2019-2020](#sommaire)
+
+## [Projets pour le NSI premiere](#projet)
+
+## [Références](#reference)
+
+## WARNING : document under LICENCE CC ![Licence CC](https://github.com/Math13Net/NSI-premiere/blob/master/licence%20CC.png)
+
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+
+## <a name="sommaire"></a> Progression Première NSI
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+
+### Chapitre 1 : PROGRAMMATION - PROJET - DONNEES
+#### 1.1 initiation à [Python 3] (C)
+ * console - opération - type
+ * if/while/for
+ * fonction - spécification - test
+ * module
+
+
+
+
+
+
+
+
+
+
+# TS - Programme python pour la TS
+best way to learn is to find something you interested in and dive in !
+-------------------------------------------------------------------------------------------------------
+[Magic Problem Solver Algorithm ;))](https://proftomcrick.com/2011/04/26/feynman-problem-solving-algorithm/)
+
 
 -----------------------------------------------------------------------------------------------------------------------------
 # TS - Progression 2019 - 2020
