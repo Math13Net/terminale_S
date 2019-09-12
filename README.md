@@ -45,7 +45,13 @@ voici la meilleure page que jai trouvée : [algorithmes TS](https://www.lyceedad
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="devoir"></a> devoirs, blanc, ... TS 2019/2020
-* ###
+* ### DS
+
+* ### DM
+* #### [DM1]()
+
+* ### Bac Blanc
+
 
 
 
