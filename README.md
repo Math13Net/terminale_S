@@ -26,7 +26,7 @@ best way to learn is to find something you interested in and dive in !
 * ### [00 - rappel](https://github.com/Math13Net/TS/blob/master/2018_TS_Cours_00.pdf)
 * ### [01 - suite](https://github.com/Math13Net/TS/blob/master/2019_TS_Cours_01.pdf)
 * ### [02 - fonction](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_02.pdf)
-* ###
+* ### []03 - probabilités ]()
 * ###
 
 ---------------------------------------------------------------------------------------------------------------------------
