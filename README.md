@@ -49,6 +49,7 @@ voici la meilleure page que jai trouvée : [algorithmes TS](https://www.lyceedad
 
 * ### DM
   * #### [DM1](https://github.com/Math13Net/TS1/blob/master/2019_TS_DM_01_sujet.pdf)
+  * #### [DM1](https://github.com/Math13Net/TS1/blob/master/2019_TS_DM_02.pdf)
 
 * ### Bac Blanc
 
