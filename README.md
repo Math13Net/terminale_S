@@ -47,6 +47,7 @@ voici la meilleure page que jai trouvée : [algorithmes TS](https://www.lyceedad
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="devoir"></a> devoirs, blanc, ... TS 2019/2020
 * ### DS
+  * #### [DS1](https://github.com/Math13Net/TS1/blob/master/2019_TS_DS_1.pdf)
 
 * ### DM
   * #### [DM1](https://github.com/Math13Net/TS1/blob/master/2019_TS_DM_01_sujet.pdf)
