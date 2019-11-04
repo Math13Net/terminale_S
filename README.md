@@ -27,7 +27,7 @@ best way to learn is to find something you interested in and dive in !
 * ### [01 - suite](https://github.com/Math13Net/TS/blob/master/2019_TS_Cours_01.pdf)
 * ### [02 - fonction](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_02.pdf)
 * ### [03 - probabilités](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_03.pdf)
-* ###
+* ### [04 - contuinté dérivation](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_04.pdf)
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="resume"></a> fiche et résumé pour TS
