@@ -36,7 +36,10 @@ best way to learn is to find something you interested in and dive in !
 * ### [01 - récurrence](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/02_raisonnement_recurrence_limite_suite/resume_recurrence.pdf)
 * ### [02 - fonction : rappel sur les dérivées](https://www.maths-france.fr/Terminale/TerminaleS/FichesCours/FormulesDerivees.pdf)
 * ### [03 - probabilité conditionnelle - loi binomiale](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/10_proba_cond_loi_binomiale/Fiche_proba_conditionnelles_loi_binomiale.pdf)
-* ###
+* ### [04 - continuité - dérivation](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/04_continuite_derivabilite_fonction/resume_lim_cont_dev.pdf)
+* ### [04 - dérivée usuelle _ à connaître par coeur](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/04_continuite_derivabilite_fonction/resume_dev_usuelles.pdf)
+
+
 * ### algorithmique
 aussi étonnant que cela puisse paraître (mais très révélateur), je n'ai pas trouver de document sur internet
 proposant un résumé clair des algorithmes à connaître en TS
