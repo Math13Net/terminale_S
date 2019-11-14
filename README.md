@@ -28,6 +28,8 @@ best way to learn is to find something you interested in and dive in !
 * ### [02 - fonction](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_02.pdf)
 * ### [03 - probabilités](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_03.pdf)
 * ### [04 - contuinté dérivation](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_04.pdf)
+* ### [05 - nombres complexes](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_05.pdf)
+
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="resume"></a> fiche et résumé pour TS
@@ -38,6 +40,9 @@ best way to learn is to find something you interested in and dive in !
 * ### [03 - probabilité conditionnelle - loi binomiale](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/10_proba_cond_loi_binomiale/Fiche_proba_conditionnelles_loi_binomiale.pdf)
 * ### [04 - continuité - dérivation](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/04_continuite_derivabilite_fonction/resume_lim_cont_dev.pdf)
 * ### [04 - dérivée usuelle _ à connaître par coeur](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/04_continuite_derivabilite_fonction/resume_dev_usuelles.pdf)
+* ### [05 - nombres complexes - algébrique](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/09_nombres_complexes/resume_complexes_algebre.pdf)
+* ### [05 - nombres complexes - géométrique](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/09_nombres_complexes/resume_complexe_geometrie.pdf)
+
 
 
 * ### algorithmique
