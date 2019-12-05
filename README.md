@@ -18,6 +18,8 @@ best way to learn is to find something you interested in and dive in !
 
 ## 📜 [progression TS 2019-2020](https://github.com/Math13Net/TS/blob/master/Progression%20TS%202019%20-%202020.pdf)
 
+## 😍 [fun et culture](#fun)
+
 ## 🔐 WARNING : document under LICENCE CC ![Licence CC](https://github.com/Math13Net/NSI-premiere/blob/master/licence%20CC.png)
 
 ------------------------------------------------------------------------------------------------
@@ -69,5 +71,12 @@ voici la meilleure page que jai trouvée : [algorithmes TS](https://www.lyceedad
 * ### Bac Blanc
 
 
-
-
+---------------------------------------------------------------------------------------------------------------------------
+## <a name="fun"></a> un peu de fun et de culture !
+* ### FUN
+  * #### [kangourou](http://www.mathkang.org/default.html)
+  * #### [castor informatique](http://castor-informatique.fr/)
+  * #### [émoji](https://gist.github.com/rxaviers/7360908)
+* ### CULTURE
+  * #### [VideoDiMath](http://video.math.cnrs.fr/)
+  * #### [http://video.math.cnrs.fr/]()
