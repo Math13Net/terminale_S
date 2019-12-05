@@ -29,6 +29,7 @@ best way to learn is to find something you interested in and dive in !
 * ### [03 - probabilités](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_03.pdf)
 * ### [04 - contuinté dérivation](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_04.pdf)
 * ### [05 - nombres complexes](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_05.pdf)
+* ### [05 - exponentielle](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_06.pdf)
 
 
 ---------------------------------------------------------------------------------------------------------------------------
@@ -42,6 +43,7 @@ best way to learn is to find something you interested in and dive in !
 * ### [04 - dérivée usuelle _ à connaître par coeur](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/04_continuite_derivabilite_fonction/resume_dev_usuelles.pdf)
 * ### [05 - nombres complexes - algébrique](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/09_nombres_complexes/resume_complexes_algebre.pdf)
 * ### [05 - nombres complexes - géométrique](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/09_nombres_complexes/resume_complexe_geometrie.pdf)
+* ### [06 - exponentielle](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/05_fonction_exponentielle/resume_exponentielle.pdf)
 
 
 
@@ -62,6 +64,7 @@ voici la meilleure page que jai trouvée : [algorithmes TS](https://www.lyceedad
   * #### [DM1](https://github.com/Math13Net/TS1/blob/master/2019_TS_DM_01_sujet.pdf)
   * #### [DM2](https://github.com/Math13Net/TS1/blob/master/2019_TS_DM_02.pdf)
   * #### [DM3](https://github.com/Math13Net/TS1/blob/master/2019_TS_DM_03.pdf)
+  * #### [DM4](https://github.com/Math13Net/TS1/blob/master/2019_TS_DM_04.pdf)
 
 * ### Bac Blanc
 
