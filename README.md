@@ -31,8 +31,8 @@ best way to learn is to find something you interested in and dive in !
 * ### [03 - probabilités](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_03.pdf)
 * ### [04 - contuinté dérivation](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_04.pdf)
 * ### [05 - nombres complexes](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_05.pdf)
-* ### [05 - exponentielle](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_06.pdf)
-
+* ### [06 - exponentielle](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_06.pdf)
+* ### [07 - logarithme](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_07.pdf)
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="resume"></a> fiche et résumé pour TS
@@ -46,6 +46,7 @@ best way to learn is to find something you interested in and dive in !
 * ### [05 - nombres complexes - algébrique](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/09_nombres_complexes/resume_complexes_algebre.pdf)
 * ### [05 - nombres complexes - géométrique](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/09_nombres_complexes/resume_complexe_geometrie.pdf)
 * ### [06 - exponentielle](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/05_fonction_exponentielle/resume_exponentielle.pdf)
+* ### [07 - logarithme](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/06_fonction_logarithme/resume_logarithme.pdf)
 
 
 
