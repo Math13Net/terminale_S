@@ -41,15 +41,19 @@ best way to learn is to find something you interested in and dive in !
 * ### [01 - suite](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/02_raisonnement_recurrence_limite_suite/limites_suite_schema.pdf)
 * ### [01 - récurrence](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/02_raisonnement_recurrence_limite_suite/resume_recurrence.pdf)
 * ### [02 - fonction : rappel sur les dérivées](https://www.maths-france.fr/Terminale/TerminaleS/FichesCours/FormulesDerivees.pdf)
+* ### [02 - comment étudier une fonction ?](https://www.labri.fr/perso/hocquard/Files/Fiche_application_derivation.pdf)
 * ### [03 - probabilité conditionnelle - loi binomiale](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/10_proba_cond_loi_binomiale/Fiche_proba_conditionnelles_loi_binomiale.pdf)
 * ### [04 - continuité - dérivation](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/04_continuite_derivabilite_fonction/resume_lim_cont_dev.pdf)
 * ### [04 - dérivée usuelle _ à connaître par coeur](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/04_continuite_derivabilite_fonction/resume_dev_usuelles.pdf)
+* ### [04 - limite et continuité](https://www.labri.fr/perso/hocquard/Files/Fiche_limites_continuite.pdf)
 * ### [05 - nombres complexes - algébrique](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/09_nombres_complexes/resume_complexes_algebre.pdf)
 * ### [05 - nombres complexes - géométrique](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/09_nombres_complexes/resume_complexe_geometrie.pdf)
 * ### [06 - exponentielle](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/05_fonction_exponentielle/resume_exponentielle.pdf)
 * ### [07 - logarithme](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/06_fonction_logarithme/resume_logarithme.pdf)
+* ### [06 et 07 - lien exponentielle et logarithme](https://www.labri.fr/perso/hocquard/Files/Fiche_exponentielle_et_logarithme.pdf)
 * ### [08 - intégration](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/08_integration/resume_integration.pdf)
 * ### [08 - intégration dérivation : vision globale](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/08_integration/resume_genealogie_fonctionnelle.pdf)
+* ### [04 et 08 - lien intégration dérivation](https://www.labri.fr/perso/hocquard/Files/Fiche_derivation_integration.pdf)
 
 
 * ### algorithmique
