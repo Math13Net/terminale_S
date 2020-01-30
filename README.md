@@ -49,7 +49,7 @@ best way to learn is to find something you interested in and dive in !
 * ### [06 - exponentielle](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/05_fonction_exponentielle/resume_exponentielle.pdf)
 * ### [07 - logarithme](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/06_fonction_logarithme/resume_logarithme.pdf)
 * ### [08 - intégration](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/08_integration/resume_integration.pdf)
-
+* ### [08 - intégration dérivation : vision globale](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/08_integration/resume_genealogie_fonctionnelle.pdf)
 
 
 * ### algorithmique
