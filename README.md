@@ -48,6 +48,7 @@ best way to learn is to find something you interested in and dive in !
 * ### [04 - limite et continuité](https://www.labri.fr/perso/hocquard/Files/Fiche_limites_continuite.pdf)
 * ### [05 - nombres complexes - algébrique](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/09_nombres_complexes/resume_complexes_algebre.pdf)
 * ### [05 - nombres complexes - géométrique](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/09_nombres_complexes/resume_complexe_geometrie.pdf)
+* ### [05 - nombres complexes : un autre résumé sympathique !](https://www.labri.fr/perso/hocquard/Files/Fiche_nombres_complexes.pdf)
 * ### [06 - exponentielle](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/05_fonction_exponentielle/resume_exponentielle.pdf)
 * ### [07 - logarithme](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/06_fonction_logarithme/resume_logarithme.pdf)
 * ### [06 et 07 - lien exponentielle et logarithme](https://www.labri.fr/perso/hocquard/Files/Fiche_exponentielle_et_logarithme.pdf)
