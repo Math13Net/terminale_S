@@ -34,6 +34,7 @@ best way to learn is to find something you interested in and dive in !
 * ### [06 - exponentielle](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_06.pdf)
 * ### [07 - logarithme](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_07.pdf)
 * ### [08 - intégration](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_08.pdf)
+* ### [08 - intégration](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_09.pdf)
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="resume"></a> fiche et résumé pour TS
@@ -55,6 +56,8 @@ best way to learn is to find something you interested in and dive in !
 * ### [08 - intégration](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/08_integration/resume_integration.pdf)
 * ### [08 - intégration dérivation : vision globale](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/08_integration/resume_genealogie_fonctionnelle.pdf)
 * ### [04 et 08 - lien intégration dérivation](https://www.labri.fr/perso/hocquard/Files/Fiche_derivation_integration.pdf)
+* ### [09 - trigo : résumé équation trigo](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/07_les_fonctions_sinus_cosinus/resume_equations_trigo.pdf)
+* ### [09 - trigo : résumé sinus cosinus](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/07_les_fonctions_sinus_cosinus/resume_sinus_cosinus.pdf)
 
 
 * ### algorithmique
