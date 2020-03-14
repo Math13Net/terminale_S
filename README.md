@@ -35,6 +35,8 @@ best way to learn is to find something you interested in and dive in !
 * ### [07 - logarithme](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_07.pdf)
 * ### [08 - intégration](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_08.pdf)
 * ### [09 - trigonométrie](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_09.pdf)
+* ### [10 - géométrie - section](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_10.pdf)
+* ### [11 - géométrie - produit scalaire](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_10.pdf)
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="resume"></a> fiche et résumé pour TS
@@ -58,6 +60,8 @@ best way to learn is to find something you interested in and dive in !
 * ### [04 et 08 - lien intégration dérivation](https://www.labri.fr/perso/hocquard/Files/Fiche_derivation_integration.pdf)
 * ### [09 - trigo : résumé équation trigo](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/07_les_fonctions_sinus_cosinus/resume_equations_trigo.pdf)
 * ### [09 - trigo : résumé sinus cosinus](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/07_les_fonctions_sinus_cosinus/resume_sinus_cosinus.pdf)
+* ### [10 et 11 - géométrie : droites](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/13_geometrie_vectorielle_prd_scalaire_espace/resume_droites_espace.pdf)
+* ### [10 et 11 - géométrie : plans](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/13_geometrie_vectorielle_prd_scalaire_espace/resume_plans_espace.pdf)
 
 
 * ### algorithmique
