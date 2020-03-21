@@ -36,7 +36,7 @@ best way to learn is to find something you interested in and dive in !
 * ### [08 - intégration](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_08.pdf)
 * ### [09 - trigonométrie](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_09.pdf)
 * ### [10 - géométrie - section](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_10.pdf)
-* ### [11 - géométrie - produit scalaire](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_10.pdf)
+* ### [11 - géométrie - produit scalaire](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_11.pdf)
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="resume"></a> fiche et résumé pour TS
