@@ -62,8 +62,8 @@ best way to learn is to find something you interested in and dive in !
 * ### [09 - trigo : résumé sinus cosinus](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/07_les_fonctions_sinus_cosinus/resume_sinus_cosinus.pdf)
 * ### [10 et 11 - géométrie : droites](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/13_geometrie_vectorielle_prd_scalaire_espace/resume_droites_espace.pdf)
 * ### [10 et 11 - géométrie : plans](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/13_geometrie_vectorielle_prd_scalaire_espace/resume_plans_espace.pdf)
-* ### [12 - loi exponentielle : plans](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/13_geometrie_vectorielle_prd_scalaire_espace/resume_plans_espace.pdf)
-
+* ### [12 - loi continue et exponentielle](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/11_lois_densite_loi_normale/resume_lois_continues.pdf)
+* ### [13 - loi normale](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/11_lois_densite_loi_normale/propriete_loi_normale.pdf)
 
 
 * ### algorithmique
