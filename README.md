@@ -37,7 +37,7 @@ best way to learn is to find something you interested in and dive in !
 * ### [09 - trigonométrie](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_09.pdf)
 * ### [10 - géométrie - section](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_10.pdf)
 * ### [11 - géométrie - produit scalaire](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_11.pdf)
-
+* ### [12 - loi exponentielle](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_12.pdf)
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="resume"></a> fiche et résumé pour TS
 * ### [00 - suite arithmétique et géométrique](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/01_rappels_suites_algorithme/resume_suites.pdf)
@@ -62,6 +62,8 @@ best way to learn is to find something you interested in and dive in !
 * ### [09 - trigo : résumé sinus cosinus](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/07_les_fonctions_sinus_cosinus/resume_sinus_cosinus.pdf)
 * ### [10 et 11 - géométrie : droites](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/13_geometrie_vectorielle_prd_scalaire_espace/resume_droites_espace.pdf)
 * ### [10 et 11 - géométrie : plans](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/13_geometrie_vectorielle_prd_scalaire_espace/resume_plans_espace.pdf)
+* ### [12 - loi exponentielle : plans](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/13_geometrie_vectorielle_prd_scalaire_espace/resume_plans_espace.pdf)
+
 
 
 * ### algorithmique
