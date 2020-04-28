@@ -64,7 +64,7 @@ best way to learn is to find something you interested in and dive in !
 * ### [10 et 11 - géométrie : plans](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/13_geometrie_vectorielle_prd_scalaire_espace/resume_plans_espace.pdf)
 * ### [12 - loi continue et exponentielle](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/11_lois_densite_loi_normale/resume_lois_continues.pdf)
 * ### [13 - loi normale](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/11_lois_densite_loi_normale/propriete_loi_normale.pdf)
-* ### [13 - loi continue et méthode de monte carlo](https://github.com/Math13Net/TS1/blob/master/tp_monte_carlo.pdf)
+* ### [13 - TP méthode monte carlo appliquée à  phi (loi normale centrée réduite)](https://github.com/Math13Net/TS1/blob/master/tp_monte_carlo.pdf)
 
 
 * ### algorithmique
