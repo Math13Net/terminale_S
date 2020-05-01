@@ -10,7 +10,7 @@ best way to learn is to find something you interested in and dive in !
 
 ## 🔥 [fiches, résumés](#resume)
 
-## 🚀 [devoirs,  bac blanc, ...](#devoir)
+## 🚀 [devoirs,  bac blanc, jeu ...](#devoir)
 
 ## 👋 [programme officiel TS](https://cache.media.education.gouv.fr/file/special_8_men/98/4/mathematiques_S_195984.pdf)
 
@@ -89,6 +89,10 @@ voici la meilleure page que jai trouvée : [algorithmes TS](https://www.lyceedad
 
 * ### Bac Blanc
 
+* ### Jeu
+  * #### [Limite](https://www.apmep.fr/IMG/pdf/Derivees_limites.pdf)
+  * #### [Intégrale](https://www.apmep.fr/IMG/pdf/Integration.pdf)
+  * #### [Complexes](https://www.apmep.fr/IMG/pdf/complexes_calculs_de_base.pdf)
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="fun"></a> un peu de fun et de culture !
