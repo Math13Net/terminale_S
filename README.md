@@ -38,6 +38,7 @@ best way to learn is to find something you interested in and dive in !
 * ### [10 - géométrie - section](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_10.pdf)
 * ### [11 - géométrie - produit scalaire](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_11.pdf)
 * ### [12 - loi exponentielle](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_12.pdf)
+* ### [13 - loi normale](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_13.pdf)
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="resume"></a> fiche et résumé pour TS
 * ### [00 - suite arithmétique et géométrique](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/01_rappels_suites_algorithme/resume_suites.pdf)
