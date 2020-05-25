@@ -39,6 +39,7 @@ best way to learn is to find something you interested in and dive in !
 * ### [11 - géométrie - produit scalaire](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_11.pdf)
 * ### [12 - loi exponentielle](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_12.pdf)
 * ### [13 - loi normale](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_13.pdf)
+* ### [14 - IdF et IC)](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_14.pdf)
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="resume"></a> fiche et résumé pour TS
 * ### [00 - suite arithmétique et géométrique](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/01_rappels_suites_algorithme/resume_suites.pdf)
@@ -66,7 +67,7 @@ best way to learn is to find something you interested in and dive in !
 * ### [12 - loi continue et exponentielle](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/11_lois_densite_loi_normale/resume_lois_continues.pdf)
 * ### [13 - loi normale](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/11_lois_densite_loi_normale/propriete_loi_normale.pdf)
 * ### [13 - TP méthode monte carlo appliquée à  phi (loi normale centrée réduite)](https://github.com/Math13Net/TS1/blob/master/tp_monte_carlo.pdf)
-
+* ### [14 - IdF et IC](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/12_statistique_estimation/resume_statistiques.pdf)
 
 * ### algorithmique
 aussi étonnant que cela puisse paraître (mais très révélateur), je n'ai pas trouver de document sur internet
