@@ -1,4 +1,5 @@
-# Terminale S - Lycée Pré de Cordy - Sarlat - 2019/2020
+# Terminale S - l'essentiel n'est pas de vivre mais de bien vivre (platon)
+
 
 best way to learn is to find something you interested in and dive in !
 -------------------------------------------------------------------------------------------------------
