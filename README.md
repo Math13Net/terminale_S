@@ -1,4 +1,4 @@
-# Terminale S - l'essentiel n'est pas de vivre mais de bien vivre (platon)
+# TS - l'essentiel n'est pas de vivre mais de bien vivre
 
 
 best way to learn is to find something you interested in and dive in !
