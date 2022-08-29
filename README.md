@@ -28,20 +28,9 @@ best way to learn is to find something you interested in and dive in !
 ------------------------------------------------------------------------------------------------
 ## <a name="cours"></a> cours TS 2019/2020
 * ### [00 - rappel](https://github.com/Math13Net/TS/blob/master/2018_TS_Cours_00.pdf)
-* ### [01 - suite](https://github.com/Math13Net/TS/blob/master/2019_TS_Cours_01.pdf)
-* ### [02 - fonction](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_02.pdf)
-* ### [03 - probabilités](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_03.pdf)
-* ### [04 - contuinté dérivation](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_04.pdf)
-* ### [05 - nombres complexes](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_05.pdf)
-* ### [06 - exponentielle](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_06.pdf)
-* ### [07 - logarithme](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_07.pdf)
-* ### [08 - intégration](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_08.pdf)
-* ### [09 - trigonométrie](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_09.pdf)
-* ### [10 - géométrie - section](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_10.pdf)
-* ### [11 - géométrie - produit scalaire](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_11.pdf)
-* ### [12 - loi exponentielle](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_12.pdf)
-* ### [13 - loi normale](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_13.pdf)
-* ### [14 - IdF et IC)](https://github.com/Math13Net/TS1/blob/master/2019_TS_Cours_14.pdf)
+* ### [01 - ]()
+* ### [02 - ]()
+
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="resume"></a> fiche et résumé pour TS
 * ### [00 - suite arithmétique et géométrique](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/01_rappels_suites_algorithme/resume_suites.pdf)
