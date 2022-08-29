@@ -1,4 +1,4 @@
-# TS_Cours_01
+# TS_Cours_02
 # Chapitre 1 : Raisonnement par récurrence - Limite d'une suite
 
 def precision_valeur(limite,precision):
