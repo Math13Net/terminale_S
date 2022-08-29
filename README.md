@@ -79,17 +79,13 @@ n'hésiter à m'en envoyer un si vous trouvez
 voici la meilleure page que jai trouvée : [algorithmes TS](https://www.lyceedadultes.fr/sitepedagogique/pages/algorithmes_ti.html)
 
 ---------------------------------------------------------------------------------------------------------------------------
-## <a name="devoir"></a> devoirs, blanc, ... TS 2019/2020
+## <a name="devoir"></a> devoirs, blanc, ... TS 2022/2023
 * ### DS
-  * #### [DS1](https://github.com/Math13Net/TS1/blob/master/2019_TS_DS_1.pdf)
-  * #### [DS2](https://github.com/Math13Net/TS1/blob/master/2019_TS_DS_2.pdf)
-  * #### [DS3](https://github.com/Math13Net/TS1/blob/master/2019_TS_DS_3.pdf)
+  * #### [DS1]()
+
 
 * ### DM
-  * #### [DM1](https://github.com/Math13Net/TS1/blob/master/2019_TS_DM_01_sujet.pdf)
-  * #### [DM2](https://github.com/Math13Net/TS1/blob/master/2019_TS_DM_02.pdf)
-  * #### [DM3](https://github.com/Math13Net/TS1/blob/master/2019_TS_DM_03.pdf)
-  * #### [DM4](https://github.com/Math13Net/TS1/blob/master/2019_TS_DM_04.pdf)
+  * #### [DM1]()
 
 * ### Bac Blanc
 
