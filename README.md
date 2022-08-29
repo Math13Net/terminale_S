@@ -76,6 +76,9 @@ voici la meilleure page que jai trouvée : [algorithmes TS](https://www.lyceedad
 
 * ### Bac Blanc
 
+* ### Ressources complémentaires
+  * #### [pédagogie montpellier](https://pedagogie.ac-montpellier.fr/gralym-activites-mentales-pour-le-cycle-terminale)
+
 * ### Jeu
   * #### [Limite](https://www.apmep.fr/IMG/pdf/Derivees_limites.pdf)
   * #### [Intégrale](https://www.apmep.fr/IMG/pdf/Integration.pdf)
