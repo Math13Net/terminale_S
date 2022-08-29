@@ -14,7 +14,7 @@ best way to learn is to find something you interested in and dive in !
 
 ## 🚀 [devoirs,  bac blanc, jeu ...](#devoir)
 
-## 👋 [programme officiel TS](https://cache.media.education.gouv.fr/file/special_8_men/98/4/mathematiques_S_195984.pdf)
+## 👋 [programme officiel TS](https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/90/7/spe246_annexe_1158907.pdf)
 
 ## 🌐 [modalité bac TS](https://eduscol.education.fr/pid23233-cid58536/serie-s-a-partir-de-2013.html)
 
