@@ -18,8 +18,6 @@ best way to learn is to find something you interested in and dive in !
 
 ## 🌐 [modalité bac TS](https://eduscol.education.fr/pid23233-cid58536/serie-s-a-partir-de-2013.html)
 
-## 📜 [progression TS 2022-2023](https://github.com/Math13Net/TS/blob/master/Progression%20TS%202019%20-%202020.pdf)
-
 ## 😍 [fun et culture](#fun)
 
 ## 🔐 WARNING : document under LICENCE CC ![Licence CC](https://github.com/Math13Net/NSI-premiere/blob/master/licence%20CC.png)
