@@ -71,10 +71,11 @@ voici la meilleure page que jai trouvée : [algorithmes TS](https://www.lyceedad
   * #### [DS1](http://fr.shaarr.com/app/i-love-you/7509/i-love-coucou)
   * #### [DS2]()
 
-* ### Bac Blanc
+* ### [Bac Blanc 2022 / 2023]()
 
 * ### Ressources complémentaires
   * #### [pédagogie montpellier](https://pedagogie.ac-montpellier.fr/gralym-activites-mentales-pour-le-cycle-terminale)
+  * #### [sujet / corrigé bac 2022](https://www.apmep.fr/Baccalaureat-specialite-maths-2022)
 
 * ### Jeu
   * #### [Limite](https://www.apmep.fr/IMG/pdf/Derivees_limites.pdf)
