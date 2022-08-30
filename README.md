@@ -68,7 +68,7 @@ voici la meilleure page que jai trouvée : [algorithmes TS](https://www.lyceedad
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="devoir"></a> devoirs, blanc, ... TS 2022/2023
 * ### DS
-  * #### [DS1]()
+  * #### [DS1](http://fr.shaarr.com/app/i-love-you/7509/i-love-coucou)
   * #### [DS2]()
 
 * ### Bac Blanc
