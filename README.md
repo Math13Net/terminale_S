@@ -69,10 +69,7 @@ voici la meilleure page que jai trouvée : [algorithmes TS](https://www.lyceedad
 ## <a name="devoir"></a> devoirs, blanc, ... TS 2022/2023
 * ### DS
   * #### [DS1]()
-
-
-* ### DM
-  * #### [DM1]()
+  * #### [DS2]()
 
 * ### Bac Blanc
 
