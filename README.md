@@ -91,3 +91,4 @@ voici la meilleure page que jai trouvée : [algorithmes TS](https://www.lyceedad
   * #### [émoji](https://gist.github.com/rxaviers/7360908)
 * ### CULTURE
   * #### [VideoDiMath](http://video.math.cnrs.fr/)
+  * #### [ex07](http://exo7.emath.fr/)
