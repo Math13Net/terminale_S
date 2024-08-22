@@ -1,7 +1,8 @@
 # TS - l'essentiel n'est pas de vivre mais de bien vivre
 
 
-best way to learn is to find something you interested in and dive in ! [play with numbers](https://youtu.be/B1J6Ou4q8vE?si=TmwQsFs8Zj51XMpL)
+best way to learn is to find something you interested in and dive in !
+[play with numbers](https://youtu.be/B1J6Ou4q8vE?si=TmwQsFs8Zj51XMpL)
 -------------------------------------------------------------------------------------------------------
 
 
