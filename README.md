@@ -24,7 +24,7 @@ best way to learn is to find something you interested in and dive in !
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
-## <a name="cours"></a> cours TS 2022/2023
+## <a name="cours"></a> cours TS 2024/2025
 * ### [01 - rappel](https://github.com/Math13Net/terminale_S/blob/master/TS_Cours_01.pdf)
 * ### [02 - récurrence](https://github.com/Math13Net/terminale_S/blob/master/TS_Cours_02.pdf)
 * ### [03 - ]()
@@ -66,17 +66,18 @@ n'hésiter à m'en envoyer un si vous trouvez
 voici la meilleure page que jai trouvée : [algorithmes TS](https://www.lyceedadultes.fr/sitepedagogique/pages/algorithmes_ti.html)
 
 ---------------------------------------------------------------------------------------------------------------------------
-## <a name="devoir"></a> devoirs, blanc, ... TS 2022/2023
+## <a name="devoir"></a> devoirs, blanc, ... TS 2024/2025
 * ### DS
   * #### [IC1]()
   * #### [DS1]()
   * #### [DS2](http://fr.shaarr.com/app/i-love-you/7509/i-love-coucou)
 
-* ### [Bac Blanc 2022 / 2023]()
+* ### [Bac Blanc 2024 ]()
+* ### [Bac Blanc 2024 ]()
 
 * ### Ressources complémentaires
   * #### [pédagogie montpellier](https://pedagogie.ac-montpellier.fr/gralym-activites-mentales-pour-le-cycle-terminale)
-  * #### [sujet / corrigé bac 2022](https://www.apmep.fr/Baccalaureat-specialite-maths-2022)
+  * #### [sujet / corrigé bac 2024](https://www.apmep.fr/Annee-2024)
 
 * ### Jeu
   * #### [Limite](https://www.apmep.fr/IMG/pdf/Derivees_limites.pdf)
@@ -89,6 +90,9 @@ voici la meilleure page que jai trouvée : [algorithmes TS](https://www.lyceedad
   * #### [kangourou](http://www.mathkang.org/default.html)
   * #### [castor informatique](http://castor-informatique.fr/)
   * #### [émoji](https://gist.github.com/rxaviers/7360908)
+
 * ### CULTURE
   * #### [VideoDiMath](http://video.math.cnrs.fr/)
   * #### [ex07](http://exo7.emath.fr/)
+  * #### [animation math fun](https://www.youtube.com/@alanbecker)
+  * #### [festival film IA Montpellier](https://www.aiff-montpellier.com/)
