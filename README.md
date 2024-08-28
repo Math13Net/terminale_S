@@ -59,11 +59,9 @@ best way to learn is to find something you interested in and dive in !
 * ### [15 - IdF et IC](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/12_statistique_estimation/resume_statistiques.pdf)
 
 * ### algorithmique
-aussi étonnant que cela puisse paraître (mais très révélateur), je n'ai pas trouver de document sur internet
-proposant un résumé clair des algorithmes à connaître en TS
-n'hésiter à m'en envoyer un si vous trouvez
+  * #### [algorithmes TS](https://www.lyceedadultes.fr/sitepedagogique/pages/algorithmes_ti.html)
+  * #### [eduscol](https://eduscol.education.fr/1723/programmes-et-ressources-en-mathematiques-voie-gt)
 
-voici la meilleure page que jai trouvée : [algorithmes TS](https://www.lyceedadultes.fr/sitepedagogique/pages/algorithmes_ti.html)
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="devoir"></a> devoirs, blanc, ... TS 2024/2025
