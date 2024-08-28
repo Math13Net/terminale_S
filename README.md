@@ -58,7 +58,7 @@ best way to learn is to find something you interested in and dive in !
 * ### [14 - TP méthode monte carlo appliquée à  phi (loi normale centrée réduite)](https://github.com/Math13Net/TS1/blob/master/tp_monte_carlo.pdf)
 * ### [15 - IdF et IC](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/12_statistique_estimation/resume_statistiques.pdf)
 
-* ### algorithmique
+* ### algorithmique python à travailler en Terminale (pour le bac) 
   * #### [algorithmes TS](https://www.lyceedadultes.fr/sitepedagogique/pages/algorithmes_ti.html)
   * #### [eduscol](https://eduscol.education.fr/1723/programmes-et-ressources-en-mathematiques-voie-gt)
 
