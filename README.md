@@ -1,4 +1,4 @@
-# TS - [play with numbers](https://youtu.be/B1J6Ou4q8vE?si=TmwQsFs8Zj51XMpL)
+# TS - [play with numbers](https://youtu.be/B1J6Ou4q8vE?si=TmwQsFs8Zj51XMpL) - [Qu’est-ce que ça fait d’inventer les mathématiques ?](https://youtu.be/XFDM1ip5HdU?si=1hdDw3aFvlAoxZp3)
 
 
 best way to learn is to find something you interested in and dive in !
