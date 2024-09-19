@@ -77,6 +77,7 @@ best way to learn is to find something you interested in and dive in !
   * #### [pédagogie montpellier](https://pedagogie.ac-montpellier.fr/gralym-activites-mentales-pour-le-cycle-terminale)
   * #### [sujet / corrigé bac 2024](https://www.apmep.fr/Annee-2024)
   * #### [exemple d'annales à  acheter](https://www.amazon.fr/Maths-Tle-g%C3%A9n%C3%A9rale-sp%C3%A9cialit%C3%A9-Exercices/dp/2401063412/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1RBP7P9ZNRI9H&dib=eyJ2IjoiMSJ9.GbZcWL8emuuyJgYaCg7xoI4f58MeuA__HA_ewDfQgLbytzCV0fatTkZ_qkf7FKVXUiK3ZoSlscFxLuxLLWNAcKKbhH-aKZhEAS83Cm2WaNE.BqhqVYInPS4_x3Mmgorj8zz7uN02OOKIrvqVLszTh6Q&dib_tag=se&keywords=annales+math+terminale+exercices+r%C3%A9solus&qid=1724839031&sprefix=annales+math+terminale+exercices+r%C3%A9solus%2Caps%2C63&sr=8-1)
+  * #### [GRALYM](https://pedagogie.ac-montpellier.fr/gralym-activites-mentales-pour-le-cycle-terminal)
 
 * ### Jeu
   * #### [Limite](https://www.apmep.fr/IMG/pdf/Derivees_limites.pdf)
