@@ -67,7 +67,7 @@ best way to learn is to find something you interested in and dive in !
 ## <a name="devoir"></a> devoirs, blanc, ... TS 2024/2025
 * ### DS
   * #### [devoir entrainement récurrence](https://github.com/Math13Net/terminale_S/blob/master/DS%20r%C3%A9currence.pdf)
-  * #### [DS1]()
+  * #### [DS1](https://github.com/Math13Net/terminale_S/blob/master/TS_DS_01.pdf)
   * #### [DS2](http://fr.shaarr.com/app/i-love-you/7509/i-love-coucou)
 
 * ### [Bac Blanc 2025]()
