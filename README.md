@@ -27,7 +27,7 @@ best way to learn is to find something you interested in and dive in !
 ## <a name="cours"></a> cours TS 2024/2025
 * ### [01 - rappel](https://github.com/Math13Net/terminale_S/blob/master/TS_Cours_01.pdf)
 * ### [02 - récurrence](https://github.com/Math13Net/terminale_S/blob/master/TS_Cours_02.pdf)
-* ### [03 - ]()
+* ### [03 - limite de fonction]()
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="resume"></a> fiche et résumé pour TS
