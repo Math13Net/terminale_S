@@ -34,7 +34,7 @@ best way to learn is to find something you interested in and dive in !
 * ### [01 - suite arithmétique et géométrique](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/01_rappels_suites_algorithme/resume_suites.pdf)
 * ### [01 - suite](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/02_raisonnement_recurrence_limite_suite/limites_suite_schema.pdf)
 * ### [02 - récurrence](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/02_raisonnement_recurrence_limite_suite/resume_recurrence.pdf)
-* ### [03 - fonction : rappel sur les dérivées](https://www.maths-france.fr/Terminale/TerminaleS/FichesCours/FormulesDerivees.pdf)
+* ### [03 - fonction : rappel sur les dérivées](https://maths-france.fr/wp-content/uploads/FormulesDerivees_fiche.pdf)
 * ### [03 - comment étudier une fonction ?](https://www.labri.fr/perso/hocquard/Files/Fiche_application_derivation.pdf)
 * ### [04 - probabilité conditionnelle - loi binomiale](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/10_proba_cond_loi_binomiale/Fiche_proba_conditionnelles_loi_binomiale.pdf)
 * ### [05 - continuité - dérivation](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/04_continuite_derivabilite_fonction/resume_lim_cont_dev.pdf)
