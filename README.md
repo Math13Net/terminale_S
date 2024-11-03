@@ -28,6 +28,7 @@ best way to learn is to find something you interested in and dive in !
 * ### [01 - rappel](https://github.com/Math13Net/terminale_S/blob/master/TS_Cours_01.pdf)
 * ### [02 - récurrence](https://github.com/Math13Net/terminale_S/blob/master/TS_Cours_02.pdf)
 * ### [03 - limite de fonction](https://github.com/Math13Net/terminale_S/blob/master/TS_Cours_03.pdf)
+* ### [04 - continuité , dérivation](https://github.com/Math13Net/terminale_S/blob/master/TS_cours_04.pdf)
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="resume"></a> fiche et résumé pour TS
