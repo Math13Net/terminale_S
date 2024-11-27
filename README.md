@@ -29,6 +29,7 @@ best way to learn is to find something you interested in and dive in !
 * ### [02 - récurrence](https://github.com/Math13Net/terminale_S/blob/master/TS_Cours_02.pdf)
 * ### [03 - limite de fonction](https://github.com/Math13Net/terminale_S/blob/master/TS_Cours_03.pdf)
 * ### [04 - continuité , dérivation](https://github.com/Math13Net/terminale_S/blob/master/TS_cours_04.pdf)
+* ### [05 - ]()
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="resume"></a> fiche et résumé pour TS
@@ -41,9 +42,7 @@ best way to learn is to find something you interested in and dive in !
 * ### [04 - dérivée usuelle _ à connaître par coeur](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/04_continuite_derivabilite_fonction/resume_dev_usuelles.pdf)
 * ### [04 - limite et continuité](https://www.labri.fr/perso/hocquard/Files/Fiche_limites_continuite.pdf)
 * ### [05 - probabilité conditionnelle - loi binomiale](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/10_proba_cond_loi_binomiale/Fiche_proba_conditionnelles_loi_binomiale.pdf)
-* ### [06 - nombres complexes - algébrique](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/09_nombres_complexes/resume_complexes_algebre.pdf)
-* ### [06 - nombres complexes - géométrique](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/09_nombres_complexes/resume_complexe_geometrie.pdf)
-* ### [06 - nombres complexes : un autre résumé sympathique !](https://www.labri.fr/perso/hocquard/Files/Fiche_nombres_complexes.pdf)
+
 * ### [07 - exponentielle](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/05_fonction_exponentielle/resume_exponentielle.pdf)
 * ### [08 - logarithme](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/06_fonction_logarithme/resume_logarithme.pdf)
 * ### [07 et 08 - lien exponentielle et logarithme](https://www.labri.fr/perso/hocquard/Files/Fiche_exponentielle_et_logarithme.pdf)
@@ -58,6 +57,11 @@ best way to learn is to find something you interested in and dive in !
 * ### [14 - loi normale](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/11_lois_densite_loi_normale/propriete_loi_normale.pdf)
 * ### [14 - TP méthode monte carlo appliquée à  phi (loi normale centrée réduite)](https://github.com/Math13Net/TS1/blob/master/tp_monte_carlo.pdf)
 * ### [15 - IdF et IC](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/12_statistique_estimation/resume_statistiques.pdf)
+* ### [06 - nombres complexes - algébrique](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/09_nombres_complexes/resume_complexes_algebre.pdf)
+* ### [06 - nombres complexes - géométrique](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/09_nombres_complexes/resume_complexe_geometrie.pdf)
+* ### [06 - nombres complexes : un autre résumé sympathique !](https://www.labri.fr/perso/hocquard/Files/Fiche_nombres_complexes.pdf)
+
+
 
 * ### algorithmique python à travailler en Terminale (pour le bac) 
   * #### [algorithmes TS](https://www.lyceedadultes.fr/sitepedagogique/pages/algorithmes_ti.html)
