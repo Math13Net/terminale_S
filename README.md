@@ -31,6 +31,7 @@ best way to learn is to find something you interested in and dive in !
 * ### [04 - continuité , dérivation](https://github.com/Math13Net/terminale_S/blob/master/TS_cours_04.pdf)
 * ### [05 - trigonométrie](https://github.com/Math13Net/terminale_S/blob/master/TS_Cours_05.pdf)
 * ### [06 - probabilité](https://github.com/Math13Net/terminale_S/blob/master/TS_Cours_06.pdf)
+* ### [07 - espace](https://github.com/Math13Net/terminale_S/blob/master/TS_Cours_07.pdf)
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="resume"></a> fiche et résumé pour TS
