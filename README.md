@@ -32,6 +32,7 @@ best way to learn is to find something you interested in and dive in !
 * ### [05 - trigonométrie](https://github.com/Math13Net/terminale_S/blob/master/TS_Cours_05.pdf)
 * ### [06 - probabilité](https://github.com/Math13Net/terminale_S/blob/master/TS_Cours_06.pdf)
 * ### [07 - géométrie dans l'espace (sans coordonnées)](https://github.com/Math13Net/terminale_S/blob/master/TS_Cours_07.pdf)
+* ### [08 - géométrie dans l'espace (produit scalaire)](https://github.com/Math13Net/terminale_S/blob/master/TS_Cours_08.pdf)
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="resume"></a> fiche et résumé pour TS
@@ -47,13 +48,13 @@ best way to learn is to find something you interested in and dive in !
 * ### [05 - trigo : résumé sinus cosinus](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/07_les_fonctions_sinus_cosinus/resume_sinus_cosinus.pdf)
 * ### [06 - probabilité conditionnelle - loi binomiale](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/10_proba_cond_loi_binomiale/Fiche_proba_conditionnelles_loi_binomiale.pdf)
 * ### [révision - exponentielle](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/05_fonction_exponentielle/resume_exponentielle.pdf)
-* ### [08 - logarithme](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/06_fonction_logarithme/resume_logarithme.pdf)
-* ### [08 - lien exponentielle et logarithme](https://www.labri.fr/perso/hocquard/Files/Fiche_exponentielle_et_logarithme.pdf)
-* ### [09 - intégration](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/08_integration/resume_integration.pdf)
-* ### [09 - intégration dérivation : vision globale](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/08_integration/resume_genealogie_fonctionnelle.pdf)
-* ### [04 et 09 - lien intégration dérivation](https://www.labri.fr/perso/hocquard/Files/Fiche_derivation_integration.pdf)
-* ### [11 et 12 - géométrie : droites](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/13_geometrie_vectorielle_prd_scalaire_espace/resume_droites_espace.pdf)
-* ### [11 et 12 - géométrie : plans](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/13_geometrie_vectorielle_prd_scalaire_espace/resume_plans_espace.pdf)
+* ### [07 et 08 - géométrie : droites](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/13_geometrie_vectorielle_prd_scalaire_espace/resume_droites_espace.pdf)
+* ### [07 et 08 - géométrie : plans](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/13_geometrie_vectorielle_prd_scalaire_espace/resume_plans_espace.pdf)
+* ### [09 - logarithme](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/06_fonction_logarithme/resume_logarithme.pdf)
+* ### [09 - lien exponentielle et logarithme](https://www.labri.fr/perso/hocquard/Files/Fiche_exponentielle_et_logarithme.pdf)
+* ### [10 - intégration](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/08_integration/resume_integration.pdf)
+* ### [10 - intégration dérivation : vision globale](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/08_integration/resume_genealogie_fonctionnelle.pdf)
+* ### [04 et 10 - lien intégration dérivation](https://www.labri.fr/perso/hocquard/Files/Fiche_derivation_integration.pdf)
 * ### [13 - loi continue et exponentielle](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/11_lois_densite_loi_normale/resume_lois_continues.pdf)
 * ### [14 - loi normale](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/11_lois_densite_loi_normale/propriete_loi_normale.pdf)
 * ### [14 - TP méthode monte carlo appliquée à  phi (loi normale centrée réduite)](https://github.com/Math13Net/TS1/blob/master/tp_monte_carlo.pdf)
