@@ -75,7 +75,9 @@ best way to learn is to find something you interested in and dive in !
 * ### DS
   * #### [devoir entrainement récurrence](https://github.com/Math13Net/terminale_S/blob/master/DS%20r%C3%A9currence.pdf)
   * #### [DS1](https://github.com/Math13Net/terminale_S/blob/master/TS_DS_01.pdf)
-  * #### [DS2](http://fr.shaarr.com/app/i-love-you/7509/i-love-coucou)
+  * #### [DS2](https://github.com/Math13Net/terminale_S/blob/master/TS_DS_02.pdf)
+  * #### [DS3](https://github.com/Math13Net/terminale_S/blob/master/TS_DS_03.pdf)
+  * #### [DS4](http://fr.shaarr.com/app/i-love-you/7509/i-love-coucou)
 
 * ### [Bac Blanc 2025]()
 * ### [Bac Blanc 2024]()
