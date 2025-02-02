@@ -33,7 +33,7 @@ best way to learn is to find something you interested in and dive in !
 * ### [06 - probabilité](https://github.com/Math13Net/terminale_S/blob/master/TS_Cours_06.pdf)
 * ### [07 - géométrie dans l'espace (sans coordonnées)](https://github.com/Math13Net/terminale_S/blob/master/TS_Cours_07.pdf)
 * ### [08 - géométrie dans l'espace (produit scalaire)](https://github.com/Math13Net/terminale_S/blob/master/TS_Cours_08.pdf)
-* ### [09 - logarithme]()
+* ### [09 - logarithme](https://github.com/Math13Net/terminale_S/blob/master/TS_Cours_09.pdf)
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="resume"></a> fiche et résumé pour TS
