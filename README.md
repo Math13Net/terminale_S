@@ -35,6 +35,7 @@ best way to learn is to find something you interested in and dive in !
 * ### [08 - géométrie dans l'espace (produit scalaire)](https://github.com/Math13Net/terminale_S/blob/master/TS_Cours_08.pdf)
 * ### [09 - logarithme](https://github.com/Math13Net/terminale_S/blob/master/TS_Cours_09.pdf)
 * ### [10 - intégration](https://github.com/Math13Net/terminale_S/blob/master/TS_cours_10.pdf)
+* ### [12 - loi continue en probabilité](https://github.com/Math13Net/terminale_S/blob/master/TS_cours_12.pdf)
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="resume"></a> fiche et résumé pour TS
@@ -57,10 +58,10 @@ best way to learn is to find something you interested in and dive in !
 * ### [10 - intégration](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/08_integration/resume_integration.pdf)
 * ### [10 - intégration dérivation : vision globale](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/08_integration/resume_genealogie_fonctionnelle.pdf)
 * ### [04 et 10 - lien intégration dérivation](https://www.labri.fr/perso/hocquard/Files/Fiche_derivation_integration.pdf)
-* ### [13 - loi continue et exponentielle](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/11_lois_densite_loi_normale/resume_lois_continues.pdf)
-* ### [14 - loi normale](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/11_lois_densite_loi_normale/propriete_loi_normale.pdf)
-* ### [14 - TP méthode monte carlo appliquée à  phi (loi normale centrée réduite)](https://github.com/Math13Net/TS1/blob/master/tp_monte_carlo.pdf)
-* ### [15 - IdF et IC](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/12_statistique_estimation/resume_statistiques.pdf)
+* ### [12 - loi continue et exponentielle](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/11_lois_densite_loi_normale/resume_lois_continues.pdf)
+* ### [13 - loi normale](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/11_lois_densite_loi_normale/propriete_loi_normale.pdf)
+* ### [13 - TP méthode monte carlo appliquée à  phi (loi normale centrée réduite)](https://github.com/Math13Net/TS1/blob/master/tp_monte_carlo.pdf)
+* ### [14 - IdF et IC](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/12_statistique_estimation/resume_statistiques.pdf)
 * ### [HP - nombres complexes - algébrique](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/09_nombres_complexes/resume_complexes_algebre.pdf)
 * ### [HP - nombres complexes - géométrique](https://www.lyceedadultes.fr/sitepedagogique/documents/math/mathTermS/09_nombres_complexes/resume_complexe_geometrie.pdf)
 * ### [HP - nombres complexes : un autre résumé sympathique !](https://www.labri.fr/perso/hocquard/Files/Fiche_nombres_complexes.pdf)
@@ -81,7 +82,7 @@ best way to learn is to find something you interested in and dive in !
   * #### [DS3](https://github.com/Math13Net/terminale_S/blob/master/TS_DS_03.pdf)
   * #### [DS4](http://fr.shaarr.com/app/i-love-you/7509/i-love-coucou)
 
-* ### [Bac Blanc 2025]()
+* ### [Bac Blanc 2025](https://github.com/Math13Net/terminale_S/blob/master/TS_BB_2025.pdf)
 * ### [Bac Blanc 2024]()
 
 * ### Ressources complémentaires
